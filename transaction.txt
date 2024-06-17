@@ -1,0 +1,5 @@
+4721	Wed Sep 13 09:55:07 IST 2023	Withdraw : 1000.0	Balance : 5000.0
+4721	Wed Sep 13 09:56:06 IST 2023	deposit : 1000.0	Balance : 6000.0
+4721	Wed Sep 13 10:00:05 IST 2023	Withdraw : 0.0	Balance : 5000.0
+4483	Wed Sep 13 10:07:01 IST 2023	Withdraw : 100.0	Balance : 5900.0
+
